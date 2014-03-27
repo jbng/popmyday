@@ -1,0 +1,9 @@
+.bowerrc
+Gruntfile.js
+bower.json
+config.xml
+hooks/
+node_modules/
+package.json
+platforms/
+plugins/
